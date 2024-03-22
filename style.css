@@ -1,0 +1,23 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+body{
+    background-color: gray;
+}
+.h1{
+    text-align: center;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+.apply-box{
+    max-width: 600px;
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    box-shadow: 4px 5px 3px red;
+    border-radius: 20px;
+}
